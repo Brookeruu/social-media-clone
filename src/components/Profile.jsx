@@ -2,9 +2,10 @@ import React from 'react';
 
 function Profile() {
   const style = {
-    height: '6em',
+    height: '7em',
     backgroundColor: 'steelblue',
-    fontFamily: 'sans-serif'
+    fontFamily: 'sans-serif',
+    padding: '12px'
   };
 
   return (
